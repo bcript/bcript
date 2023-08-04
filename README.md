@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bcript
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and ethical hacking
+- 🌱 I’m currently learning python and others
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: @bricpt on discord
 
